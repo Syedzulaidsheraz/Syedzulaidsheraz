@@ -46,4 +46,4 @@ Completed assigned frontend development projects using HTML, CSS, and JavaScript
 ## 📫 Connect With Me
 
 - Portfolio: https://syedzulaidsheraz.github.io/Portfolio/
-- LinkedIn: (https://www.linkedin.com/in/syed-zulaid-sheraz-b063b5408?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn: https://www.linkedin.com/in/syed-zulaid-sheraz-b063b5408?utm_source=share_via&utm_content=profile&utm_medium=member_android
